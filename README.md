@@ -1,16 +1,15 @@
-## Hi there 👋
+# midnight 🥞
 
-<!--
-**midnightpancakes/midnightpancakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student • Cybersecurity • Just Got Here 👇
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+<a href="https://github.com/xct/xct">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=midnightpancakes&show_icons=true&theme=aura_dark&include_all_commits=true&hide=contribs&count_private=true&line_height=32" alt="xct's GitHub Stats" />
+</a>
+
+
+
+</p>
