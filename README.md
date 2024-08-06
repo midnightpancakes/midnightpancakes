@@ -1,6 +1,6 @@
 # midnight 🥞
 
-Student • Cybersecurity • Just Got Here 👇
+Student • Cybersecurity Nerd • Just Got Here 👇
 
 ---
 
